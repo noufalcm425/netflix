@@ -1,0 +1,32 @@
+section{
+    min-height: 100vh;
+}
+
+.content{
+    min-height: 100vh;
+}
+.a1{
+    border: 3px solid grey;
+    color: black;
+}
+
+a{
+    text-decoration: none;
+}
+li a{
+    text-decoration: none;
+    color: gray;
+}
+.bg{
+min-height: 50vh;
+}
+#button1{
+    background-color: red;
+    font-size: 20px;
+    border: 1px solid red;
+    
+}
+#button1:hover{
+    font-size: 28px;
+    
+}
